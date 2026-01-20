@@ -3,7 +3,7 @@ name = "shokoutils"
 version = "0.1.1-git"
 edition = "2021"
 authors = ["Cyntheria"]
-description = "A high-performance, append-only archive format and library"
+description = "The command-line utilities for Shoko."
 license = "LGPL-3.0-only"
 repository = "https://github.com/cyntheria/shoko"
 
