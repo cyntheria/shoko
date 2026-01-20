@@ -20,7 +20,7 @@ Shoko is split into a core library (shoko) and a command-line utility (shokoutil
 
 # Clone the repository
 ```
-git clone [https://github.com/youruser/shoko.git](https://github.com/youruser/shoko.git)
+git clone https://github.com/cyntheria/shoko
 cd shoko
 ```
 
