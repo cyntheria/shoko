@@ -30,7 +30,7 @@ cd shoko
 cargo build --release
 ```
 
-Usage (CLI)
+# Usage (CLI)
 
 The ``sar`` utility (**s**hoko **ar**chiver) provides the primary interface:
 
@@ -52,7 +52,7 @@ Selective Unpacking
 sar unpack assets.sk1 ./output --glob='images/*.png'
 ```
 
-Live Editing
+## Live Editing
 
 Edit a file directly inside the archive using your $EDITOR:
 
@@ -60,7 +60,7 @@ Edit a file directly inside the archive using your $EDITOR:
 sar write assets.sk1/config.json
 ```
 
-Library Integration
+# Library Integration
 
 Add Shoko to your Cargo.toml:
 
