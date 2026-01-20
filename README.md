@@ -66,7 +66,7 @@ Add Shoko to your Cargo.toml:
 
 ```toml
 [dependencies]
-shoko = 0.1.0
+shoko = "0.1.1-rc1"
 ```
 
 ```rust
