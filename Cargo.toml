@@ -1,0 +1,19 @@
+[workspace]
+members = [
+    "shoko",
+    "shokoutils",
+]
+resolver = "2"
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+authors = ["Your Name <you@example.com>"]
+description = "A high-performance, append-only archive format and library"
+license = "LGPL-3.0-only"
+repository = "https://github.com/youruser/shoko"
+
+[workspace.dependencies]
+glob = "0.3"
+petgraph = "0.6"
+clap = { version = "4.4", features = ["derive"] }
