@@ -8,4 +8,5 @@ pub mod delete;
 pub mod metadata;
 pub mod glob;
 pub mod encrypt;
+pub mod mmem;
 pub use archive::ShokoArchive;

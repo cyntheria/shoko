@@ -6,7 +6,7 @@ members = [
 resolver = "2"
 
 [workspace.package]
-version = "0.1.1-rc1"
+version = "0.1.2"
 edition = "2021"
 authors = ["Cyntheria"]
 description = "A high-performance, append-only archive format and library"
@@ -16,6 +16,3 @@ repository = "https://github.com/cyntheria/shoko"
 [workspace.dependencies]
 rand = "0.8"
 aes-gcm = "0.10"
-glob = "0.3"
-petgraph = "0.6"
-clap = { version = "4.4", features = ["derive"] }
