@@ -9,4 +9,6 @@ pub mod metadata;
 pub mod glob;
 pub mod encrypt;
 pub mod mmem;
+pub mod shadow;
 pub use archive::ShokoArchive;
+// why are there so many of yall :sob:
