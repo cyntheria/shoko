@@ -1,6 +1,7 @@
 # Shoko
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/aa7defecc3514adcb45922065aa14497)](https://app.codacy.com/gh/cyntheria/shoko/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) ![Rust](https://img.shields.io/badge/rust-%23E05D44.svg?style=for-the-badge&logo=rust&logoColor=white) ![Rust Version](https://img.shields.io/badge/rustc-1.90+-lightgrey.svg)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/aa7defecc3514adcb45922065aa14497)](https://app.codacy.com/gh/cyntheria/shoko/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) ![Rust Version](https://img.shields.io/badge/rustc-1.90+-lightgrey.svg) [![Crates.io](https://img.shields.io/crates/d/shoko](https://crates.io/crates/shoko)
+![Rust](https://img.shields.io/badge/rust-%23E05D44.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 Shoko is a high-performance, append-only archive format and library written in Rust. It utilizes a custom Run-Length Encoding (RLE) engine and a trailing-index architecture designed for fast writes and space-efficient storage of repetitive data.
 
